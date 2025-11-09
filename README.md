@@ -25,7 +25,9 @@ An interactive quiz web app built with **HTML, CSS, and JavaScript** that tests 
 
 ## 🧑‍💻 How to Use / Run Locally
 1. **Clone this repository:**
+```
    git clone https://github.com/omargamal-og/Quiz-App.git
+```
 
 ---
 
